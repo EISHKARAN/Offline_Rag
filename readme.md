@@ -10,7 +10,7 @@ source .venv/bin/activate
 Install the Python dependencies:
 
 ```shell
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Pull the model you'd like to use:
